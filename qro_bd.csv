@@ -1,0 +1,1440 @@
+Chromosome,General_function,Representative_group,Numero_genes,Numero_SNPs
+1,Biological process,regulation of cyclin-dependent protein serine/threonine kinase activity,1,659
+1,Biological process,response to heat,18,341
+1,Biological process,response to biotic stimulus,29,326
+1,Biological process,mRNA splicing via spliceosome,6,180
+1,Biological process,cytokinin metabolism,20,160
+1,Biological process,macromolecule depalmitoylation,95,158
+1,Biological process,RNA polyadenylation,41,155
+1,Biological process,ribosomal large subunit biogenesis,8,145
+1,Biological process,protein maturation by iron-sulfur cluster transfer,67,144
+1,Biological process,RNA methylation,5,114
+1,Biological process,amine metabolism,19,112
+1,Biological process,xyloglucan metabolism,16,93
+1,Biological process,protein processing,12,88
+1,Biological process,CTP biosynthetic process,1,84
+1,Biological process,meiotic cell cycle,17,72
+1,Biological process,protein ubiquitination,13,68
+1,Biological process,organic substance metabolism,3,59
+1,Biological process,protein metabolism,3,58
+1,Biological process,response to abscisic acid,2,52
+1,Biological process,(1->3)-beta-D-glucan biosynthetic process,2,51
+1,Biological process,adenine salvage,1,51
+1,Biological process,RNA phosphodiester bond hydrolysis endonucleolytic,21,48
+1,Biological process,chromosome segregation,37,46
+1,Biological process,auxin-activated signaling pathway,3,42
+1,Biological process,oxidation-reduction process,191,31
+1,Biological process,purine nucleotide biosynthetic process,1,31
+1,Biological process,protein stabilization,4,26
+1,Biological process,rRNA processing,1,26
+1,Biological process,positive regulation of GTPase activity,7,24
+1,Biological process,GPI anchor biosynthetic process,4,21
+1,Biological process,cellular modified amino acid biosynthesis,8,20
+1,Biological process,phosphorelay signal transduction system,4,19
+1,Biological process,metabolism,50,18
+1,Biological process,transcription DNA-templated,1,18
+1,Biological process,ion transmembrane transport,9,17
+1,Biological process,protein folding,8,15
+1,Biological process,root development,1,15
+1,Biological process,cell adhesion,1,13
+1,Biological process,post-chaperonin tubulin folding pathway,1,13
+1,Biological process,biosynthesis,8,12
+1,Biological process,cation transport,14,11
+1,Biological process,protein glycosylation,1,11
+1,Biological process,dephosphorylation,10,10
+1,Biological process,multicellular organism development,5,10
+1,Biological process,ribosome biogenesis,14,8
+1,Biological process,superoxide metabolism,1,8
+1,Biological process,hydrogen peroxide catabolism,14,7
+1,Biological process,photosynthesis light reaction,2,6
+1,Biological process,sexual reproduction,2,6
+1,Biological process,vacuolar transport,32,6
+1,Biological process,nitrogen compound metabolism,2,5
+1,Biological process,developmental process,4,4
+1,Biological process,phosphorylation,21,3
+1,Biological process,photosynthetic electron transport chain,2,3
+1,Biological process,transmembrane transport,42,3
+1,Biological process,activation of protein kinase activity,4,2
+1,Biological process,ATP hydrolysis coupled cation transmembrane transport,2,2
+1,Biological process,methylation,28,2
+1,Biological process,phosphatidylinositol dephosphorylation,3,2
+1,Biological process,photosynthesis,4,2
+1,Biological process,attachment of GPI anchor to protein,1,1
+1,Biological process,cellulose biosynthetic process,1,1
+1,Biological process,'de novo' CTP biosynthetic process,1,1
+1,Biological process,intracellular transport,1,1
+1,Biological process,mitochondrial respiratory chain complex I assembly,3,1
+1,Biological process,mRNA 3'-end processing,1,1
+1,Biological process,rRNA methylation,1,1
+1,Biological process,xylan catabolic process,2,1
+1,Biological process,carbohydrate metabolism,56,0
+1,Biological process,lipid A biosynthetic process,3,0
+1,Biological process,mannosylation,15,0
+1,Biological process,nucleocytoplasmic transport,2,0
+1,Cellular component,cis-Golgi network,96,566
+1,Cellular component,photosystem II oxygen evolving complex,1,469
+1,Cellular component,extracellular region,5,132
+1,Cellular component,cell wall,8,41
+1,Cellular component,intracellular,1,22
+1,Cellular component,endosome,6,20
+1,Cellular component,endoplasmic reticulum,2,18
+1,Cellular component,transcriptional repressor complex,7,12
+1,Cellular component,endoplasmic reticulum membrane,3,8
+1,Cellular component,microtubule organizing center,1,5
+1,Cellular component,plasma membrane,1,4
+1,Cellular component,extrinsic component of membrane,1,3
+1,Cellular component,integral component of membrane,167,3
+1,Cellular component,clathrin adaptor complex,1,1
+1,Cellular component,extracellular matrix,4,1
+1,Cellular component,membrane,43,1
+1,Molecular function,nucleic acid binding,53,481
+1,Molecular function,chromatin binding,6,263
+1,Molecular function,67-dimethyl-8-ribityllumazine synthase activity,3,204
+1,Molecular function,catalytic activity,23,135
+1,Molecular function,acyl-CoA hydrolase activity,2,124
+1,Molecular function,G-protein beta/gamma-subunit complex binding,1,109
+1,Molecular function,U1 snRNA binding,3,94
+1,Molecular function,transcription factor activity sequence-specific DNA binding,3,91
+1,Molecular function,zinc ion binding,113,71
+1,Molecular function,DNA-directed 5'-3' RNA polymerase activity,4,40
+1,Molecular function,palmitoyl hydrolase activity,34,40
+1,Molecular function,cytokinin dehydrogenase activity,10,39
+1,Molecular function,dioxygenase activity,4,33
+1,Molecular function,ATP-dependent NAD(P)H-hydrate dehydratase activity,4,26
+1,Molecular function,formate-tetrahydrofolate ligase activity,1,23
+1,Molecular function,protein-ribulosamine 3-kinase activity,27,22
+1,Molecular function,membrane insertase activity,9,17
+1,Molecular function,kinase activity,2,16
+1,Molecular function,microtubule minus-end binding,21,15
+1,Molecular function,transferase activity transferring acyl groups other than amino-acyl groups,21,15
+1,Molecular function,serine-type endopeptidase activity,2,12
+1,Molecular function,protein phosphatase inhibitor activity,2,11
+1,Molecular function,transporter activity,1,11
+1,Molecular function,GTPase activity,2,10
+1,Molecular function,phosphatidylinositol binding,16,10
+1,Molecular function,phosphate ion binding,27,7
+1,Molecular function,lyase activity,1,6
+1,Molecular function,peptidase activity,8,6
+1,Molecular function,sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity,3,6
+1,Molecular function,transferase activity,14,6
+1,Molecular function,ATP binding,4,5
+1,Molecular function,oxidoreductase activity,5,5
+1,Molecular function,protein dimerization activity,6,5
+1,Molecular function,calcium ion binding,12,4
+1,Molecular function,isomerase activity,1,4
+1,Molecular function,ligase activity,10,3
+1,Molecular function,quinone binding,1,3
+1,Molecular function,serine-type exopeptidase activity,1,3
+1,Molecular function,galactose binding,1,2
+1,Molecular function,nutrient reservoir activity,1,2
+1,Molecular function,hydrolase activity,30,1
+1,Molecular function,actin binding,1,0
+1,Molecular function,clathrin binding,5,0
+1,Molecular function,potassium ion binding,6,0
+1,Not characterized,Not characterized,1796,7035
+2,Biological process,ribosomal large subunit biogenesis,15,656
+2,Biological process,hydrogen peroxide catabolism,38,576
+2,Biological process,karyogamy,14,410
+2,Biological process,mRNA splicing via spliceosome,2,364
+2,Biological process,protein maturation by iron-sulfur cluster transfer,116,256
+2,Biological process,nucleotide-excision repair,1,222
+2,Biological process,fucose metabolism,6,170
+2,Biological process,carbon fixation,80,140
+2,Biological process,detection of visible light,20,140
+2,Biological process,fucose metabolic process,2,120
+2,Biological process,asymmetric cell division,20,115
+2,Biological process,(1->3)-beta-D-glucan biosynthetic process,1,106
+2,Biological process,carbohydrate metabolism,28,106
+2,Biological process,response to sucrose,20,100
+2,Biological process,GDP-mannose biosynthesis,106,83
+2,Biological process,gravitropism,25,70
+2,Biological process,protein geranylgeranylation,7,69
+2,Biological process,polyamine biosynthesis,5,47
+2,Biological process,fatty acid biosynthetic process,1,38
+2,Biological process,protein processing,6,35
+2,Biological process,protein folding,5,31
+2,Biological process,rRNA processing,2,31
+2,Biological process,microtubule severing,8,28
+2,Biological process,tRNA modification,2,28
+2,Biological process,RNA catabolic process,1,26
+2,Biological process,vacuolar transport,30,25
+2,Biological process,GPI anchor biosynthetic process,3,22
+2,Biological process,transcription DNA-templated,6,21
+2,Biological process,lipid metabolism,7,20
+2,Biological process,dephosphorylation,9,19
+2,Biological process,sulfate assimilation,1,14
+2,Biological process,methylation,29,13
+2,Biological process,actin filament organization,1,11
+2,Biological process,cellular metabolism,2,11
+2,Biological process,spindle organization,1,10
+2,Biological process,ER to Golgi vesicle-mediated transport,11,7
+2,Biological process,intracellular protein transport,3,7
+2,Biological process,nitrogen compound metabolism,1,7
+2,Biological process,biosynthesis,6,6
+2,Biological process,metabolism,41,6
+2,Biological process,metal ion transport,4,6
+2,Biological process,photorespiration,1,6
+2,Biological process,carbon utilization,3,4
+2,Biological process,mRNA 3'-end processing,5,4
+2,Biological process,phototropism,1,4
+2,Biological process,protein metabolism,3,4
+2,Biological process,proton transmembrane transport,1,4
+2,Biological process,spindle assembly,1,4
+2,Biological process,transmembrane transport,38,4
+2,Biological process,multicellular organism development,1,3
+2,Biological process,oxidation-reduction process,93,3
+2,Biological process,photosynthesis,2,3
+2,Biological process,positive regulation of GTPase activity,2,3
+2,Biological process,starch biosynthetic process,1,3
+2,Biological process,xylan biosynthetic process,1,3
+2,Biological process,cell proliferation,1,2
+2,Biological process,root development,9,2
+2,Biological process,sexual reproduction,1,2
+2,Biological process,actin filament depolymerization,1,1
+2,Biological process,developmental process,1,1
+2,Biological process,negative regulation of catalytic activity,2,1
+2,Biological process,negative regulation of nucleic acid-templated transcription,1,1
+2,Biological process,phospholipid translocation,3,1
+2,Biological process,phosphorylation,124,1
+2,Biological process,positive regulation of circadian rhythm,21,1
+2,Biological process,cysteine biosynthetic process from serine,1,0
+2,Biological process,vesicle-mediated transport,4,0
+2,Cellular component,nuclear cap binding complex,91,563
+2,Cellular component,photosystem I reaction center,3,423
+2,Cellular component,cell wall,6,176
+2,Cellular component,extracellular region,2,65
+2,Cellular component,extracellular space,1,22
+2,Cellular component,intracellular,8,15
+2,Cellular component,amyloplast,19,9
+2,Cellular component,membrane,40,4
+2,Cellular component,endoplasmic reticulum membrane,1,3
+2,Cellular component,Ino80 complex,2,2
+2,Cellular component,microtubule,1,2
+2,Cellular component,SAGA-type complex,1,2
+2,Cellular component,anchored component of membrane,1,1
+2,Cellular component,apoplast,1,1
+2,Cellular component,integral component of membrane,156,1
+2,Cellular component,mediator complex,2,1
+2,Molecular function,phosphorelay sensor kinase activity,1,227
+2,Molecular function,glutathione transferase activity,28,139
+2,Molecular function,cofactor binding,60,119
+2,Molecular function,single-stranded telomeric DNA binding,1,106
+2,Molecular function,chromatin binding,3,94
+2,Molecular function,nucleic acid binding,22,77
+2,Molecular function,G-quadruplex RNA binding,1,71
+2,Molecular function,cyclic-nucleotide phosphodiesterase activity,1,70
+2,Molecular function,transcription factor activity sequence-specific DNA binding,1,58
+2,Molecular function,catalytic activity,14,57
+2,Molecular function,glucose-6-phosphate 1-epimerase activity,2,48
+2,Molecular function,lactoylglutathione lyase activity,1,44
+2,Molecular function,serine-type endopeptidase activity,19,44
+2,Molecular function,acetate-CoA ligase activity,1,43
+2,Molecular function,inositol heptakisphosphate kinase activity,12,36
+2,Molecular function,triphosphatase activity,9,28
+2,Molecular function,protein serine/threonine kinase activity,2,20
+2,Molecular function,coenzyme binding,1,18
+2,Molecular function,cysteine-type endopeptidase inhibitor activity,2,17
+2,Molecular function,methyltransferase activity,19,17
+2,Molecular function,calcium ion binding,14,12
+2,Molecular function,antioxidant activity,1,10
+2,Molecular function,drug transmembrane transporter activity,6,10
+2,Molecular function,transporter activity,1,10
+2,Molecular function,farnesyl-diphosphate farnesyltransferase activity,2,6
+2,Molecular function,potassium ion binding,26,6
+2,Molecular function,structural constituent of cell wall,1,6
+2,Molecular function,hydrolase activity acting on ester bonds,8,5
+2,Molecular function,Rab GTPase binding,4,5
+2,Molecular function,zinc ion binding,27,5
+2,Molecular function,1-phosphatidylinositol binding,19,4
+2,Molecular function,lyase activity,1,4
+2,Molecular function,polysaccharide binding,8,4
+2,Molecular function,ATP binding,3,3
+2,Molecular function,hydrolase activity,6,3
+2,Molecular function,lipid binding,2,3
+2,Molecular function,3-dehydroquinate synthase activity,1,1
+2,Molecular function,clathrin binding,9,1
+2,Molecular function,kinase activity,4,1
+2,Molecular function,ligase activity,13,1
+2,Molecular function,oxidoreductase activity,2,1
+2,Molecular function,starch binding,1,1
+2,Molecular function,transferase activity,12,1
+2,Molecular function,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity,8,0
+2,Molecular function,protein dimerization activity,2,0
+2,Not characterized,Not characterized,1465,5429
+3,Biological process,DNA damage checkpoint,2,663
+3,Biological process,histidine biosynthetic process,1,478
+3,Biological process,hydrogen peroxide catabolism,7,228
+3,Biological process,phosphorelay signal transduction system,6,226
+3,Biological process,microtubule cytoskeleton organization,5,189
+3,Biological process,cell division,10,165
+3,Biological process,mRNA splicing via spliceosome,6,165
+3,Biological process,Group II intron splicing,1,150
+3,Biological process,protein peptidyl-prolyl isomerization,4,100
+3,Biological process,protein geranylgeranylation,13,99
+3,Biological process,isocitrate metabolic process,1,95
+3,Biological process,carbohydrate metabolic process,46,93
+3,Biological process,lipid metabolic process,14,91
+3,Biological process,RNA-dependent DNA biosynthetic process,3,88
+3,Biological process,glycolytic process,1,85
+3,Biological process,cell wall modification,23,69
+3,Biological process,protein folding,10,62
+3,Biological process,nucleotide-excision repair,1,59
+3,Biological process,mRNA polyadenylation,1,52
+3,Biological process,DNA topological change,3,49
+3,Biological process,base-excision repair,4,43
+3,Biological process,DNA recombination,2,43
+3,Biological process,glyoxylate cycle,1,43
+3,Biological process,cytoplasmic translational initiation,1,40
+3,Biological process,acetyl-CoA biosynthetic process from pyruvate,1,39
+3,Biological process,L-phenylalanine catabolic process,1,38
+3,Biological process,sucrose metabolic process,3,38
+3,Biological process,chromatin organization,2,37
+3,Biological process,DNA repair,2,37
+3,Biological process,regulation of transcription by RNA polymerase II,6,37
+3,Biological process,rRNA processing,2,37
+3,Biological process,translational initiation,4,37
+3,Biological process,fumarate metabolic process,1,35
+3,Biological process,mRNA splice site selection,1,34
+3,Biological process,N-terminal protein myristoylation,1,31
+3,Biological process,fructose 6-phosphate metabolism,4,29
+3,Biological process,glutamate metabolic process,2,29
+3,Biological process,fatty acid biosynthetic process,1,28
+3,Biological process,response to ionizing radiation,11,28
+3,Biological process,(1->3)-beta-D-glucan biosynthetic process,1,27
+3,Biological process,chromatin remodeling,2,26
+3,Biological process,DNA replication,5,26
+3,Biological process,histidyl-tRNA aminoacylation,1,26
+3,Biological process,ion transport,4,26
+3,Biological process,microtubule-based process,1,26
+3,Biological process,isoprenoid biosynthetic process,2,25
+3,Biological process,nitrogen compound metabolic process,1,25
+3,Biological process,transcription DNA-templated,5,24
+3,Biological process,nucleosome assembly,4,22
+3,Biological process,cysteine biosynthetic process from serine,1,21
+3,Biological process,ubiquitin-dependent protein catabolism,9,21
+3,Biological process,microtubule-based movement,26,20
+3,Biological process,mismatch repair,2,20
+3,Biological process,proteolysis,40,19
+3,Biological process,translational elongation,3,19
+3,Biological process,mRNA 3'-end processing,2,18
+3,Biological process,oxylipin biosynthetic process,3,18
+3,Biological process,positive regulation of TOR signaling,1,18
+3,Biological process,DNA-templated transcription termination,1,17
+3,Biological process,protein phosphorylation,9,17
+3,Biological process,steroid biosynthetic process,1,17
+3,Biological process,regulation of transcription DNA-templated,91,16
+3,Biological process,cellular amino acid metabolic process,1,15
+3,Biological process,protein dephosphorylation,6,15
+3,Biological process,drug transmembrane transport,5,14
+3,Biological process,RNA processing,5,14
+3,Biological process,tRNA splicing via endonucleolytic cleavage and ligation,1,14
+3,Biological process,cation transport,2,13
+3,Biological process,intracellular protein transport,13,13
+3,Biological process,biosynthesis,1,12
+3,Biological process,fatty acid metabolic process,1,12
+3,Biological process,GPI anchor biosynthetic process,2,12
+3,Biological process,magnesium ion transmembrane transport,15,12
+3,Biological process,riboflavin biosynthetic process,1,12
+3,Biological process,starch biosynthetic process,1,12
+3,Biological process,tRNA aminoacylation for protein translation,2,12
+3,Biological process,ubiquitin-dependent protein catabolic process,5,12
+3,Biological process,defense response,5,11
+3,Biological process,multicellular organism development,5,11
+3,Biological process,NAD biosynthetic process,1,11
+3,Biological process,phosphate ion transport,2,11
+3,Biological process,polyamine biosynthetic process,2,11
+3,Biological process,protein processing involved in protein targeting to mitochondrion,1,11
+3,Biological process,transcription from plastid promoter,4,11
+3,Biological process,actin filament organization,1,10
+3,Biological process,chromosome organization,1,10
+3,Biological process,gravitropism,1,10
+3,Biological process,peroxisome organization,1,10
+3,Biological process,photosystem II assembly,1,10
+3,Biological process,signal transduction,7,10
+3,Biological process,L-serine biosynthetic process,1,9
+3,Biological process,nucleoside triphosphate catabolic process,1,9
+3,Biological process,potassium ion transmembrane transport,6,9
+3,Biological process,translation,14,9
+3,Biological process,clathrin coat assembly,2,8
+3,Biological process,metabolic process,54,8
+3,Biological process,metabolism,2,8
+3,Biological process,nucleotide metabolic process,1,8
+3,Biological process,phosphatidylinositol dephosphorylation,2,8
+3,Biological process,posttranslational protein targeting to membrane translocation,1,8
+3,Biological process,protein metabolic process,4,8
+3,Biological process,systemic acquired resistance,1,8
+3,Biological process,branched-chain amino acid biosynthetic process,1,7
+3,Biological process,cellular amino acid biosynthetic process,3,7
+3,Biological process,ceramide metabolic process,1,7
+3,Biological process,developmental process,1,7
+3,Biological process,Golgi organization,1,7
+3,Biological process,mitochondrial respiratory chain complex IV assembly,1,7
+3,Biological process,nucleocytoplasmic transport,1,7
+3,Biological process,oligopeptide transport,2,7
+3,Biological process,reciprocal meiotic recombination,1,7
+3,Biological process,regulation of DNA methylation,1,7
+3,Biological process,response to hormone,1,7
+3,Biological process,activation of protein kinase activity,1,6
+3,Biological process,amine metabolic process,3,6
+3,Biological process,cell cycle,4,6
+3,Biological process,cellular oxidant detoxification,12,6
+3,Biological process,glutathione metabolic process,1,6
+3,Biological process,glutathione metabolism,3,6
+3,Biological process,malate transport,2,6
+3,Biological process,peptidyl-tyrosine phosphorylation,2,6
+3,Biological process,protein ubiquitination,8,6
+3,Biological process,retrograde vesicle-mediated transport Golgi to ER,1,6
+3,Biological process,RNA biosynthetic process,2,6
+3,Biological process,RNA phosphodiester bond hydrolysis endonucleolytic,6,6
+3,Biological process,cell redox homeostasis,3,5
+3,Biological process,DNA duplex unwinding,9,5
+3,Biological process,endoplasmic reticulum organization,1,5
+3,Biological process,glycerolipid biosynthetic process,3,5
+3,Biological process,G-protein coupled receptor signaling pathway,1,5
+3,Biological process,male meiosis II,2,5
+3,Biological process,mRNA methylation,1,5
+3,Biological process,negative regulation of transcription DNA-templated,1,5
+3,Biological process,protein catabolic process,2,5
+3,Biological process,regulation of mitotic metaphase/anaphase transition,1,5
+3,Biological process,response to high light intensity,1,5
+3,Biological process,response to stress,9,5
+3,Biological process,sulfate transport,1,5
+3,Biological process,ammonium transmembrane transport,1,4
+3,Biological process,cellular response to DNA damage stimulus,1,4
+3,Biological process,DNA integration,10,4
+3,Biological process,exocytosis,6,4
+3,Biological process,gamma-tubulin complex localization,1,4
+3,Biological process,glycerol ether metabolic process,1,4
+3,Biological process,metal ion transport,3,4
+3,Biological process,protein sumoylation,2,4
+3,Biological process,protein transport,6,4
+3,Biological process,pyridoxine biosynthetic process,1,4
+3,Biological process,pyrimidine nucleotide-sugar transmembrane transport,1,4
+3,Biological process,regulation of systemic acquired resistance,1,4
+3,Biological process,root cap development,7,4
+3,Biological process,rRNA methylation,2,4
+3,Biological process,spindle assembly,1,4
+3,Biological process,tRNA processing,1,4
+3,Biological process,biosynthetic process,8,3
+3,Biological process,carbohydrate transport,7,3
+3,Biological process,carboxylic acid metabolic process,1,3
+3,Biological process,cell surface receptor signaling pathway,1,3
+3,Biological process,chloroplast fission,1,3
+3,Biological process,DNA biosynthetic process,1,3
+3,Biological process,gamma-aminobutyric acid catabolic process,1,3
+3,Biological process,Golgi vesicle transport,1,3
+3,Biological process,iron-sulfur cluster assembly,1,3
+3,Biological process,macroautophagy,1,3
+3,Biological process,methionine biosynthetic process,2,3
+3,Biological process,negative regulation of endopeptidase activity,13,3
+3,Biological process,oxidation-reduction process,123,3
+3,Biological process,protein import into peroxisome matrix docking,1,3
+3,Biological process,purine nucleobase transport,1,3
+3,Biological process,regulation of circadian rhythm,4,3
+3,Biological process,RNA polyadenylation,1,3
+3,Biological process,snRNA processing,1,3
+3,Biological process,vacuole organization,1,3
+3,Biological process,calcium ion transmembrane transport,2,2
+3,Biological process,cellulose microfibril organization,2,2
+3,Biological process,chloride transmembrane transport,2,2
+3,Biological process,dephosphorylation,10,2
+3,Biological process,DNA endoreduplication,2,2
+3,Biological process,glycine decarboxylation via glycine cleavage system,1,2
+3,Biological process,intra-Golgi vesicle-mediated transport,1,2
+3,Biological process,ionotropic glutamate receptor signaling pathway,4,2
+3,Biological process,lipid biosynthetic process,2,2
+3,Biological process,lipid transport,4,2
+3,Biological process,nucleic acid phosphodiester bond hydrolysis,9,2
+3,Biological process,peptidyl-pyroglutamic acid biosynthetic process using glutaminyl-peptide cyclotransferase,1,2
+3,Biological process,phospholipid transport,1,2
+3,Biological process,phosphorylation,139,2
+3,Biological process,photosynthesis,1,2
+3,Biological process,phytochelatin biosynthetic process,1,2
+3,Biological process,plant-type cell wall organization,2,2
+3,Biological process,poly(A)+ mRNA export from nucleus,1,2
+3,Biological process,positive regulation of GTPase activity,2,2
+3,Biological process,protein refolding,1,2
+3,Biological process,proton transmembrane transport,2,2
+3,Biological process,regulation of defense response,3,2
+3,Biological process,response to nitrate,2,2
+3,Biological process,transmembrane transport,40,2
+3,Biological process,vesicle-mediated transport,3,2
+3,Biological process,vitamin B6 biosynthetic process,1,2
+3,Biological process,brassinosteroid mediated signaling pathway,1,1
+3,Biological process,carbohydrate derivative metabolic process,1,1
+3,Biological process,CDP-diacylglycerol biosynthetic process,1,1
+3,Biological process,cellular response to stress,1,1
+3,Biological process,coenzyme A biosynthetic process,1,1
+3,Biological process,electron transport chain,5,1
+3,Biological process,flower development,1,1
+3,Biological process,gene silencing by RNA,8,1
+3,Biological process,histone deubiquitination,1,1
+3,Biological process,induced systemic resistance jasmonic acid mediated signaling pathway,1,1
+3,Biological process,inorganic anion transport,2,1
+3,Biological process,kinetochore assembly,1,1
+3,Biological process,mannosylation,1,1
+3,Biological process,methylation,37,1
+3,Biological process,mitochondrial translation,1,1
+3,Biological process,mitotic DNA replication checkpoint,1,1
+3,Biological process,mRNA transport,1,1
+3,Biological process,negative regulation of cell death,2,1
+3,Biological process,nucleotide-sugar transmembrane transport,1,1
+3,Biological process,pectin catabolic process,8,1
+3,Biological process,phloem development,1,1
+3,Biological process,phylloquinone biosynthetic process,1,1
+3,Biological process,protein deubiquitination,1,1
+3,Biological process,protein targeting to ER,2,1
+3,Biological process,regulation of monopolar cell growth,1,1
+3,Biological process,ribosome biogenesis,2,1
+3,Biological process,S-adenosylhomocysteine catabolic process,2,1
+3,Biological process,sialylation,1,1
+3,Biological process,ubiquitin-dependent protein catabolic process via the multivesicular body sorting pathway,1,1
+3,Biological process,actin filament depolymerization,1,0
+3,Biological process,ATP hydrolysis coupled cation transmembrane transport,2,0
+3,Biological process,cell wall organization,8,0
+3,Biological process,glycerol ether metabolism,10,0
+3,Biological process,histone lysine methylation,1,0
+3,Biological process,intracellular transport,1,0
+3,Biological process,lipid catabolic process,5,0
+3,Biological process,mRNA processing,1,0
+3,Biological process,negative regulation of catalytic activity,8,0
+3,Biological process,phosphatidylinositol metabolic process,3,0
+3,Biological process,protein glycosylation,10,0
+3,Biological process,transcription elongation from RNA polymerase II promoter,5,0
+3,Cellular component,exosome (RNase complex),1,745
+3,Cellular component,proteasome complex,1,231
+3,Cellular component,mitochondrial sorting and assembly machinery complex,1,227
+3,Cellular component,extracellular region,4,106
+3,Cellular component,extracellular space,1,66
+3,Cellular component,cell,2,42
+3,Cellular component,intracellular,8,40
+3,Cellular component,nucleolus,1,20
+3,Cellular component,cell wall,5,14
+3,Cellular component,clathrin-coated vesicle,58,10
+3,Cellular component,RISC complex,6,9
+3,Cellular component,nucleus,25,8
+3,Cellular component,cytoplasm,1,6
+3,Cellular component,integral component of membrane,192,6
+3,Cellular component,transcription factor TFIID complex,1,6
+3,Cellular component,chloroplast,1,5
+3,Cellular component,endoplasmic reticulum,1,5
+3,Cellular component,mitochondrial membrane,1,5
+3,Cellular component,chromosome,1,2
+3,Cellular component,microtubule,2,2
+3,Cellular component,ribosome,3,2
+3,Cellular component,clathrin coat of trans-Golgi network vesicle,2,1
+3,Cellular component,mediator complex,1,1
+3,Cellular component,membrane,60,1
+3,Cellular component,mitochondrial matrix,3,1
+3,Cellular component,plasma membrane,6,1
+3,Molecular function,double-stranded DNA binding,21,296
+3,Molecular function,phosphorelay sensor kinase activity,1,268
+3,Molecular function,calcium ion binding,71,251
+3,Molecular function,DNA binding,21,194
+3,Molecular function,RNA binding,29,157
+3,Molecular function,nucleic acid binding,40,141
+3,Molecular function,signal recognition particle binding,2,133
+3,Molecular function,actin binding,8,131
+3,Molecular function,GTPase activity,1,110
+3,Molecular function,amidase activity,2,88
+3,Molecular function,catalytic activity,21,83
+3,Molecular function,NAD+ ADP-ribosyltransferase activity,1,71
+3,Molecular function,microtubule motor activity,9,70
+3,Molecular function,hydrolase activity,16,46
+3,Molecular function,helicase activity,2,42
+3,Molecular function,serine-type endopeptidase activity,4,40
+3,Molecular function,aminoacyl-tRNA hydrolase activity,1,39
+3,Molecular function,transferase activity,28,37
+3,Molecular function,methyltransferase activity,32,31
+3,Molecular function,protein transporter activity,3,30
+3,Molecular function,transferase activity transferring acyl groups other than amino-acyl groups,3,29
+3,Molecular function,succinate-semialdehyde dehydrogenase [NAD(P)+] activity,4,23
+3,Molecular function,clathrin binding,4,21
+3,Molecular function,beta-galactosidase activity,2,19
+3,Molecular function,monooxygenase activity,5,19
+3,Molecular function,protein serine/threonine phosphatase activity,1,17
+3,Molecular function,pectate lyase activity,1,15
+3,Molecular function,zinc ion binding,34,15
+3,Molecular function,selenium binding,1,14
+3,Molecular function,SUMO transferase activity,4,14
+3,Molecular function,carbohydrate binding,4,12
+3,Molecular function,hydrolase activity acting on ester bonds,5,12
+3,Molecular function,ATP binding,28,11
+3,Molecular function,GTP binding,4,8
+3,Molecular function,hydrolase activity acting on acid anhydrides,1,8
+3,Molecular function,membrane insertase activity,3,8
+3,Molecular function,oxidoreductase activity,7,8
+3,Molecular function,transaminase activity,2,8
+3,Molecular function,sulfotransferase activity,3,7
+3,Molecular function,transferase activity transferring alkyl or aryl (other than methyl) groups,1,6
+3,Molecular function,G-protein beta/gamma-subunit complex binding,1,5
+3,Molecular function,isomerase activity,2,5
+3,Molecular function,ubiquitin-like modifier activating enzyme activity,1,5
+3,Molecular function,ADP binding,31,4
+3,Molecular function,protein dimerization activity,14,4
+3,Molecular function,glucose-6-phosphate isomerase activity,1,3
+3,Molecular function,phosphatidylinositol binding,5,3
+3,Molecular function,racemase and epimerase activity acting on carbohydrates and derivatives,1,3
+3,Molecular function,cofactor binding,8,2
+3,Molecular function,lyase activity,2,2
+3,Molecular function,structural constituent of cuticle,1,2
+3,Molecular function,jasmonate-amino synthetase activity,1,1
+3,Molecular function,ligase activity,22,1
+3,Molecular function,nutrient reservoir activity,7,1
+3,Molecular function,channel activity,1,0
+3,Molecular function,chaperone binding,1,0
+3,Molecular function,L-ascorbic acid binding,9,0
+3,Molecular function,metal ion binding,18,0
+3,Molecular function,Rab guanyl-nucleotide exchange factor activity,5,0
+3,Not characterized,Not characterized,1855,7644
+4,Biological process,sulfate assimilation,4,1166
+4,Biological process,carbohydrate metabolism,28,279
+4,Biological process,microtubule cytoskeleton organization,1,261
+4,Biological process,dephosphorylation,21,258
+4,Biological process,GDP-mannose biosynthesis,220,192
+4,Biological process,response to auxin,5,144
+4,Biological process,RNA catabolic process,1,133
+4,Biological process,nucleic acid phosphodiester bond hydrolysis,12,113
+4,Biological process,transcription DNA-templated,1,79
+4,Biological process,hydrogen peroxide catabolism,1,60
+4,Biological process,RNA phosphodiester bond hydrolysis endonucleolytic,59,54
+4,Biological process,karyogamy,20,48
+4,Biological process,ribosomal small subunit biogenesis,3,43
+4,Biological process,tRNA modification,1,36
+4,Biological process,peroxisomal membrane transport,58,35
+4,Biological process,pectin catabolism,3,29
+4,Biological process,ribosome biogenesis,3,24
+4,Biological process,photosynthetic electron transport chain,4,19
+4,Biological process,translational termination,1,19
+4,Biological process,chromosome separation,17,18
+4,Biological process,developmental process,1,15
+4,Biological process,protein folding,4,15
+4,Biological process,SRP-dependent cotranslational protein targeting to membrane,1,11
+4,Biological process,arginine biosynthetic process via ornithine,1,10
+4,Biological process,biosynthesis,5,8
+4,Biological process,protein K63-linked deubiquitination,10,7
+4,Biological process,response to biotic stimulus,10,6
+4,Biological process,metabolism,30,5
+4,Biological process,retrograde transport endosome to Golgi,10,5
+4,Biological process,carbon fixation,70,4
+4,Biological process,intracellular protein transport,2,4
+4,Biological process,lipid A biosynthetic process,1,3
+4,Biological process,methylation,20,3
+4,Biological process,multicellular organism development,12,3
+4,Biological process,positive regulation of GTPase activity,6,3
+4,Biological process,cellulose microfibril organization,1,2
+4,Biological process,photosynthesis light harvesting,2,2
+4,Biological process,glycerolipid biosynthetic process,1,1
+4,Biological process,photosynthesis,2,1
+4,Biological process,positive regulation of nucleic acid-templated transcription,1,1
+4,Biological process,proton transmembrane transport,1,1
+4,Biological process,respiratory electron transport chain,1,1
+4,Biological process,amine metabolism,57,0
+4,Biological process,CAAX-box protein processing,38,0
+4,Biological process,mitotic spindle assembly checkpoint,1,0
+4,Biological process,spindle assembly,1,0
+4,Cellular component,Ski complex,19,696
+4,Cellular component,cell wall,4,70
+4,Cellular component,cell,3,47
+4,Cellular component,intracellular,12,43
+4,Cellular component,membrane,2,26
+4,Cellular component,R2TP complex,2,9
+4,Cellular component,thylakoid,17,9
+4,Cellular component,extracellular space,8,5
+4,Cellular component,integral component of membrane,168,5
+4,Cellular component,proteasome core complex,2,4
+4,Cellular component,outer membrane,1,2
+4,Molecular function,calcium-dependent phospholipid binding,11,284
+4,Molecular function,zinc ion binding,29,136
+4,Molecular function,inositol heptakisphosphate kinase activity,16,123
+4,Molecular function,chlorophyll binding,29,94
+4,Molecular function,AT DNA binding,28,82
+4,Molecular function,transcription factor activity sequence-specific DNA binding,2,54
+4,Molecular function,chromatin binding,4,45
+4,Molecular function,RNA polymerase II regulatory region sequence-specific DNA binding,3,43
+4,Molecular function,aminoacylase activity,24,31
+4,Molecular function,antioxidant activity,1,30
+4,Molecular function,3-dehydroquinate synthase activity,3,21
+4,Molecular function,calcium ion binding,6,20
+4,Molecular function,catalytic activity,2,19
+4,Molecular function,Lys63-specific deubiquitinase activity,8,19
+4,Molecular function,protein phosphatase regulator activity,1,18
+4,Molecular function,aminoacyl-tRNA ligase activity,1,12
+4,Molecular function,transferase activity,3,12
+4,Molecular function,drug transmembrane transporter activity,6,11
+4,Molecular function,actin binding,2,9
+4,Molecular function,cyclic-nucleotide phosphodiesterase activity,1,9
+4,Molecular function,oxidoreductase activity,1,9
+4,Molecular function,SUMO transferase activity,6,8
+4,Molecular function,copper ion binding,55,6
+4,Molecular function,GTPase activator activity,3,6
+4,Molecular function,blue light photoreceptor activity,2,5
+4,Molecular function,protein domain specific binding,8,5
+4,Molecular function,ATP binding,2,4
+4,Molecular function,kinase activity,4,4
+4,Molecular function,ligase activity,5,3
+4,Molecular function,calmodulin binding,13,1
+4,Molecular function,heme binding,5,1
+4,Molecular function,isomerase activity,1,1
+4,Molecular function,nutrient reservoir activity,1,1
+4,Molecular function,peptidyl-prolyl cis-trans isomerase activity,1,1
+4,Molecular function,red chlorophyll catabolite reductase activity,2,1
+4,Molecular function,hydrolase activity,4,0
+4,Not characterized,Not characterized,1128,4733
+5,Biological process,recognition of pollen,43,525
+5,Biological process,response to biotic stimulus,25,297
+5,Biological process,RNA phosphodiester bond hydrolysis endonucleolytic,9,202
+5,Biological process,fructose 6-phosphate metabolism,32,184
+5,Biological process,dephosphorylation,6,133
+5,Biological process,microtubule cytoskeleton organization,1,132
+5,Biological process,macromolecule depalmitoylation,114,115
+5,Biological process,cell wall modification,12,107
+5,Biological process,carbohydrate metabolism,27,89
+5,Biological process,RNA polyadenylation,39,88
+5,Biological process,glutathione catabolism,14,80
+5,Biological process,defense response to bacterium,8,76
+5,Biological process,ribosome biogenesis,12,63
+5,Biological process,chromatin remodeling,1,56
+5,Biological process,rRNA processing,1,50
+5,Biological process,protein folding,4,38
+5,Biological process,nucleotide-excision repair,2,35
+5,Biological process,hydrogen peroxide catabolism,2,23
+5,Biological process,carbon fixation,92,18
+5,Biological process,ubiquitin-dependent protein catabolic process,1,16
+5,Biological process,lipid metabolism,1,15
+5,Biological process,translational termination,1,14
+5,Biological process,vacuolar transport,41,12
+5,Biological process,GPI anchor biosynthetic process,1,10
+5,Biological process,methylation,19,10
+5,Biological process,autophagy,2,8
+5,Biological process,intracellular protein transport,4,8
+5,Biological process,signal transduction,5,8
+5,Biological process,ER to Golgi vesicle-mediated transport,13,6
+5,Biological process,phosphatidylinositol biosynthetic process,1,6
+5,Biological process,protein maturation by iron-sulfur cluster transfer,33,6
+5,Biological process,microtubule severing,4,5
+5,Biological process,post-chaperonin tubulin folding pathway,2,5
+5,Biological process,metabolism,28,4
+5,Biological process,negative regulation of catalytic activity,2,3
+5,Biological process,negative regulation of endopeptidase activity,5,2
+5,Biological process,organic substance metabolism,1,2
+5,Biological process,regulation of catalytic activity,7,2
+5,Biological process,sexual reproduction,1,2
+5,Biological process,biosynthesis,4,1
+5,Biological process,multicellular organism development,2,1
+5,Biological process,phospholipid biosynthetic process,1,1
+5,Biological process,photosynthesis,2,1
+5,Biological process,photosynthesis light harvesting,1,0
+5,Biological process,RNA processing,3,0
+5,Cellular component,chloroplast,5,673
+5,Cellular component,protein kinase CK2 complex,9,29
+5,Cellular component,integral component of membrane,153,25
+5,Cellular component,prefoldin complex,2,17
+5,Cellular component,cell,3,15
+5,Cellular component,nucleus,10,12
+5,Cellular component,photosystem II,2,12
+5,Cellular component,intracellular,1,9
+5,Cellular component,membrane,3,4
+5,Cellular component,thylakoid,8,4
+5,Cellular component,apoplast,2,3
+5,Cellular component,cell wall,6,2
+5,Molecular function,calcium-dependent phospholipid binding,55,306
+5,Molecular function,sequence-specific DNA binding,10,151
+5,Molecular function,chlorophyll binding,24,90
+5,Molecular function,AT DNA binding,24,83
+5,Molecular function,chromatin binding,2,77
+5,Molecular function,tRNA binding,2,50
+5,Molecular function,catalytic activity,12,40
+5,Molecular function,GPI-anchor transamidase activity,19,30
+5,Molecular function,metalloendopeptidase activity,1,25
+5,Molecular function,flavin adenine dinucleotide binding,1,23
+5,Molecular function,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity,45,22
+5,Molecular function,transcription cofactor activity,1,22
+5,Molecular function,intramolecular lyase activity,4,21
+5,Molecular function,protein kinase activity,7,20
+5,Molecular function,jasmonate-amino synthetase activity,4,10
+5,Molecular function,carboxypeptidase activity,5,9
+5,Molecular function,zinc ion binding,9,9
+5,Molecular function,calmodulin binding,7,8
+5,Molecular function,clathrin binding,6,8
+5,Molecular function,pyrimidine nucleotide-sugar transmembrane transporter activity,1,8
+5,Molecular function,potassium ion binding,26,6
+5,Molecular function,kinase activity,5,5
+5,Molecular function,chlorophyllide a oxygenase [overall] activity,4,4
+5,Molecular function,transferase activity,6,3
+5,Molecular function,ATP binding,1,2
+5,Molecular function,carbohydrate binding,3,2
+5,Molecular function,lyase activity,1,2
+5,Molecular function,2 iron 2 sulfur cluster binding,1,1
+5,Molecular function,hydrolase activity,7,1
+5,Molecular function,ligase activity,1,1
+5,Molecular function,oxidoreductase activity,2,0
+5,Not characterized,Not characterized,868,3250
+6,Biological process,sialylation,99,517
+6,Biological process,response to heat,4,362
+6,Biological process,chromosome organization,10,267
+6,Biological process,hydrogen peroxide catabolism,5,191
+6,Biological process,amine metabolism,39,120
+6,Biological process,pectin catabolism,1,115
+6,Biological process,carbohydrate metabolism,35,114
+6,Biological process,angiogenesis,3,100
+6,Biological process,lipid metabolism,4,74
+6,Biological process,ribosome biogenesis,13,72
+6,Biological process,chromatin silencing,1,66
+6,Biological process,glycolytic process,1,48
+6,Biological process,RNA polyadenylation,50,41
+6,Biological process,protein autoprocessing,1,40
+6,Biological process,mannosylation,2,39
+6,Biological process,RNA phosphodiester bond hydrolysis endonucleolytic,68,35
+6,Biological process,response to biotic stimulus,14,34
+6,Biological process,protein K63-linked deubiquitination,12,22
+6,Biological process,fucosylation,107,17
+6,Biological process,metabolism,34,17
+6,Biological process,protein folding,7,14
+6,Biological process,biosynthesis,3,13
+6,Biological process,Golgi vesicle transport,15,13
+6,Biological process,RNA catabolic process,1,13
+6,Biological process,exocytosis,1,12
+6,Biological process,microtubule-based process,11,12
+6,Biological process,SRP-dependent cotranslational protein targeting to membrane,1,12
+6,Biological process,positive regulation of circadian rhythm,14,11
+6,Biological process,signal transduction,3,8
+6,Biological process,intracellular protein transport,2,7
+6,Biological process,protein glycosylation,1,7
+6,Biological process,spermine biosynthesis,3,7
+6,Biological process,cellular amino acid metabolic process,1,6
+6,Biological process,peroxisome organization,3,6
+6,Biological process,regulation of flower development,1,6
+6,Biological process,ER to Golgi vesicle-mediated transport,1,5
+6,Biological process,intracellular transport,3,5
+6,Biological process,vacuolar transport,66,5
+6,Biological process,mitochondrial calcium ion homeostasis,1,4
+6,Biological process,magnesium ion transmembrane transport,1,3
+6,Biological process,multicellular organism development,5,3
+6,Biological process,nitrogen compound metabolism,1,3
+6,Biological process,protein import into mitochondrial inner membrane,1,3
+6,Biological process,proton transmembrane transport,1,3
+6,Biological process,response to auxin,1,3
+6,Biological process,methylation,14,2
+6,Biological process,phosphatidylinositol dephosphorylation,3,2
+6,Biological process,photosynthesis,4,2
+6,Biological process,potassium ion homeostasis,5,2
+6,Biological process,protein import into peroxisome matrix docking,1,2
+6,Biological process,cell division,6,1
+6,Biological process,cell proliferation,1,1
+6,Biological process,cell wall modification,1,1
+6,Biological process,macroautophagy,2,1
+6,Biological process,negative regulation of endopeptidase activity,3,1
+6,Biological process,protein import into mitochondrial matrix,1,1
+6,Biological process,regulation of protein kinase activity,1,1
+6,Biological process,tetrahydrofolate biosynthetic process,1,1
+6,Biological process,fructose 2-6-bisphosphate metabolism,15,0
+6,Biological process,glycerol-3-phosphate catabolism,14,0
+6,Biological process,positive regulation of GTPase activity,2,0
+6,Cellular component,dehydrodolichyl diphosphate synthase complex,20,446
+6,Cellular component,chromosome,54,296
+6,Cellular component,chloroplast stroma,2,268
+6,Cellular component,membrane,1,99
+6,Cellular component,intracellular,3,50
+6,Cellular component,lipid particle,4,25
+6,Cellular component,cell,1,14
+6,Cellular component,integral component of membrane,145,8
+6,Cellular component,thylakoid,14,7
+6,Cellular component,apoplast,5,5
+6,Cellular component,cell wall,4,4
+6,Cellular component,anchored component of membrane,1,2
+6,Molecular function,U1 snRNA binding,53,205
+6,Molecular function,chitin binding,26,178
+6,Molecular function,transcription factor activity sequence-specific DNA binding,2,173
+6,Molecular function,zinc ion binding,35,128
+6,Molecular function,catalytic activity,6,92
+6,Molecular function,proteasome-activating ATPase activity,8,67
+6,Molecular function,ferrochelatase activity,4,53
+6,Molecular function,phosphatidylserine decarboxylase activity,2,47
+6,Molecular function,molybdopterin synthase activity,15,43
+6,Molecular function,biotin synthase activity,24,34
+6,Molecular function,methyltransferase activity,16,27
+6,Molecular function,triphosphatase activity,7,26
+6,Molecular function,hydrolase activity hydrolyzing O-glycosyl compounds,4,21
+6,Molecular function,translation initiation factor activity,11,21
+6,Molecular function,DNA polymerase processivity factor activity,1,19
+6,Molecular function,carbohydrate binding,4,18
+6,Molecular function,hydrolase activity,6,18
+6,Molecular function,hydroquinone:oxygen oxidoreductase activity,8,16
+6,Molecular function,channel activity,4,13
+6,Molecular function,lysine-tRNA ligase activity,1,13
+6,Molecular function,asparagine synthase (glutamine-hydrolyzing) activity,1,9
+6,Molecular function,transferase activity,9,9
+6,Molecular function,potassium ion binding,50,7
+6,Molecular function,oxidoreductase activity,3,6
+6,Molecular function,fatty-acyl-CoA reductase (alcohol-forming) activity,1,5
+6,Molecular function,auxin binding,1,3
+6,Molecular function,ligase activity,16,3
+6,Molecular function,NAD-dependent histone deacetylase activity (H3-K14 specific),1,3
+6,Molecular function,nutrient reservoir activity,5,3
+6,Molecular function,isochorismate synthase activity,1,2
+6,Molecular function,clathrin adaptor activity,10,1
+6,Molecular function,cofactor binding,1,1
+6,Molecular function,phosphatidylinositol binding,1,1
+6,Molecular function,quinone binding,1,1
+6,Molecular function,ubiquitin binding,2,1
+6,Molecular function,2 iron 2 sulfur cluster binding,1,0
+6,Molecular function,isomerase activity,1,0
+6,Molecular function,oxidoreductase activity acting on CH-OH group of donors,1,0
+6,Molecular function,ubiquitin-like modifier activating enzyme activity,2,0
+6,Not characterized,Not characterized,1236,4674
+7,Biological process,regulation of cyclin-dependent protein serine/threonine kinase activity,1,693
+7,Biological process,plant-type cell wall organization,6,365
+7,Biological process,detection of visible light,41,271
+7,Biological process,protein repair,135,251
+7,Biological process,mRNA polyadenylation,73,174
+7,Biological process,protein lipoylation,34,158
+7,Biological process,microtubule-based process,8,115
+7,Biological process,male meiosis II,6,109
+7,Biological process,ribosome biogenesis,16,65
+7,Biological process,trehalose biosynthetic process,3,64
+7,Biological process,glutamate metabolism,8,63
+7,Biological process,dephosphorylation,10,57
+7,Biological process,photosynthetic electron transport in photosystem I,2,44
+7,Biological process,glycolytic process,1,40
+7,Biological process,carbon fixation,75,35
+7,Biological process,(1->3)-beta-D-glucan biosynthetic process,3,31
+7,Biological process,regulation of catalytic activity,5,30
+7,Biological process,response to hormone,5,26
+7,Biological process,mRNA catabolic process,1,24
+7,Biological process,transcription DNA-templated,2,24
+7,Biological process,mRNA splicing via spliceosome,31,18
+7,Biological process,protein folding,1,14
+7,Biological process,photosynthesis light harvesting,2,10
+7,Biological process,regulation of transcription DNA-templated,1,10
+7,Biological process,amine metabolism,3,9
+7,Biological process,oligopeptide transport,36,7
+7,Biological process,intracellular protein transport,15,6
+7,Biological process,sexual reproduction,3,5
+7,Biological process,metabolism,26,4
+7,Biological process,response to auxin,2,4
+7,Biological process,biosynthesis,8,3
+7,Biological process,methylation,17,3
+7,Biological process,photosynthesis,3,3
+7,Biological process,hydrogen peroxide catabolism,4,2
+7,Biological process,positive regulation of GTPase activity,1,2
+7,Biological process,regulation of GTPase activity,1,2
+7,Biological process,proton transmembrane transport,1,1
+7,Biological process,triglyceride biosynthesis,3,1
+7,Biological process,vesicle-mediated transport,1,1
+7,Biological process,carbohydrate metabolism,34,0
+7,Biological process,cellular metabolism,1,0
+7,Biological process,lipid A biosynthetic process,1,0
+7,Biological process,xylem development,6,0
+7,Cellular component,clathrin-coated vesicle,34,605
+7,Cellular component,cell wall,6,136
+7,Cellular component,intracellular,9,75
+7,Cellular component,extracellular region,5,48
+7,Cellular component,extracellular space,1,22
+7,Cellular component,MCM complex,4,12
+7,Cellular component,monolayer-surrounded lipid storage body,13,9
+7,Cellular component,integral component of membrane,152,7
+7,Cellular component,endoplasmic reticulum membrane,1,4
+7,Cellular component,microtubule,1,2
+7,Cellular component,membrane,2,1
+7,Molecular function,molybdenum ion binding,6,189
+7,Molecular function,chlorophyll binding,26,126
+7,Molecular function,G-quadruplex RNA binding,16,94
+7,Molecular function,metal ion binding,9,72
+7,Molecular function,signal recognition particle binding,5,49
+7,Molecular function,clathrin binding,6,40
+7,Molecular function,catalytic activity,8,37
+7,Molecular function,L-aspartate:2-oxoglutarate aminotransferase activity,1,32
+7,Molecular function,aspartyl esterase activity,22,31
+7,Molecular function,chitin binding,26,30
+7,Molecular function,protein heterodimerization activity,1,30
+7,Molecular function,transcription factor activity sequence-specific DNA binding,1,26
+7,Molecular function,1-phosphatidylinositol binding,8,23
+7,Molecular function,copper chaperone activity,20,20
+7,Molecular function,ubiquitin-protein transferase activity,2,20
+7,Molecular function,galactose binding,2,17
+7,Molecular function,auxin binding,1,14
+7,Molecular function,terpene synthase activity,1,12
+7,Molecular function,oxidoreductase activity,2,6
+7,Molecular function,glucose-6-phosphate 1-epimerase activity,2,5
+7,Molecular function,hydrolase activity,8,5
+7,Molecular function,intramolecular lyase activity,4,5
+7,Molecular function,phosphatidylcholine 1-acylhydrolase activity,1,5
+7,Molecular function,lipid binding,1,4
+7,Molecular function,transferase activity,11,4
+7,Molecular function,heme oxygenase (decyclizing) activity,1,2
+7,Molecular function,lysine-acetylated histone binding,4,2
+7,Molecular function,SUMO transferase activity,7,2
+7,Molecular function,carbohydrate binding,6,1
+7,Molecular function,heme binding,3,1
+7,Molecular function,ligase activity,6,1
+7,Molecular function,quinone binding,2,0
+7,Not characterized,Not characterized,825,3328
+8,Biological process,fucosylation,96,422
+8,Biological process,positive regulation of circadian rhythm,5,347
+8,Biological process,recognition of pollen,68,286
+8,Biological process,hydrogen peroxide catabolism,3,234
+8,Biological process,ribosomal large subunit biogenesis,8,232
+8,Biological process,mRNA splicing via spliceosome,1,156
+8,Biological process,S-adenosylmethionine biosynthesis,81,122
+8,Biological process,protein autoprocessing,33,103
+8,Biological process,chloroplast fission,27,92
+8,Biological process,tRNA 5prime-end processing,13,91
+8,Biological process,cellular glucan metabolism,1,80
+8,Biological process,carbohydrate metabolism,27,78
+8,Biological process,dephosphorylation,18,77
+8,Biological process,transcription DNA-templated,4,67
+8,Biological process,RNA phosphodiester bond hydrolysis endonucleolytic,6,45
+8,Biological process,glycolytic process,1,44
+8,Biological process,RNA catabolic process,1,43
+8,Biological process,positive gravitropism,4,41
+8,Biological process,protein retention in ER lumen,1,36
+8,Biological process,plant-type sporogenesis,1,32
+8,Biological process,ER to Golgi vesicle-mediated transport,4,28
+8,Biological process,protein folding,7,26
+8,Biological process,translational termination,1,24
+8,Biological process,autophagy,1,16
+8,Biological process,signal transduction,6,16
+8,Biological process,cyanide metabolism,13,15
+8,Biological process,endosome transport via multivesicular body sorting pathway,68,15
+8,Biological process,intracellular protein transport,2,13
+8,Biological process,cell proliferation,1,12
+8,Biological process,multicellular organism development,1,10
+8,Biological process,response to stress,1,10
+8,Biological process,metabolism,38,9
+8,Biological process,mitotic spindle assembly checkpoint,1,7
+8,Biological process,proteolysis involved in cellular protein catabolic process,1,6
+8,Biological process,developmental process,1,4
+8,Biological process,glutathione biosynthesis,1,4
+8,Biological process,negative regulation of endopeptidase activity,1,4
+8,Biological process,phosphatidylinositol phosphorylation,1,4
+8,Biological process,protein deubiquitination,1,4
+8,Biological process,biosynthesis,12,3
+8,Biological process,defense response to bacterium,16,3
+8,Biological process,photosynthesis light harvesting,6,3
+8,Biological process,potassium ion transmembrane transport,1,3
+8,Biological process,ribosome biogenesis,2,3
+8,Biological process,vesicle-mediated transport,1,3
+8,Biological process,glycerolipid biosynthetic process,5,2
+8,Biological process,methylation,19,2
+8,Biological process,photosynthesis,2,2
+8,Biological process,positive regulation of GTPase activity,3,2
+8,Biological process,proton transmembrane transport,1,2
+8,Biological process,purine nucleobase biosynthetic process,1,2
+8,Biological process,tryptophan catabolic process to kynurenine,1,2
+8,Biological process,cellular metabolism,2,1
+8,Biological process,metal ion transport,2,1
+8,Biological process,pectin catabolism,1,1
+8,Biological process,regulation of catalytic activity,1,1
+8,Biological process,regulation of pH,4,1
+8,Biological process,phosphorylation,69,0
+8,Biological process,protein maturation by iron-sulfur cluster transfer,24,0
+8,Biological process,response to light intensity,16,0
+8,Biological process,ubiquitin-dependent protein catabolic process,4,0
+8,Cellular component,prefoldin complex,20,915
+8,Cellular component,cell wall,3,116
+8,Cellular component,extracellular region,16,100
+8,Cellular component,intracellular,12,57
+8,Cellular component,thylakoid,29,43
+8,Cellular component,eukaryotic 48S preinitiation complex,18,38
+8,Cellular component,chromoplast,5,11
+8,Cellular component,membrane,1,8
+8,Cellular component,SAGA-type complex,1,3
+8,Cellular component,integral component of membrane,206,2
+8,Cellular component,extracellular matrix,1,1
+8,Molecular function,coenzyme binding,1,192
+8,Molecular function,zinc ion binding,17,131
+8,Molecular function,cofactor binding,32,96
+8,Molecular function,chitin binding,11,90
+8,Molecular function,glycopeptide alpha-N-acetylgalactosaminidase activity,20,88
+8,Molecular function,catalytic activity,12,74
+8,Molecular function,5S rRNA binding,29,66
+8,Molecular function,transcription factor activity sequence-specific DNA binding,3,63
+8,Molecular function,chromatin binding,2,62
+8,Molecular function,aminoacylase activity,25,47
+8,Molecular function,protein disulfide isomerase activity,4,27
+8,Molecular function,glycine hydroxymethyltransferase activity,18,26
+8,Molecular function,L-3-cyanoalanine synthase activity,5,26
+8,Molecular function,ARF guanyl-nucleotide exchange factor activity,2,24
+8,Molecular function,jasmonate-amino synthetase activity,1,24
+8,Molecular function,nutrient reservoir activity,1,21
+8,Molecular function,drug transmembrane transporter activity,3,18
+8,Molecular function,glutathione binding,5,15
+8,Molecular function,potassium ion binding,25,12
+8,Molecular function,calmodulin binding,11,10
+8,Molecular function,chlorophyll binding,4,9
+8,Molecular function,transferase activity,9,7
+8,Molecular function,methionine S-methyltransferase activity,6,6
+8,Molecular function,NADPH-adrenodoxin reductase activity,3,5
+8,Molecular function,phosphatidylinositol binding,1,5
+8,Molecular function,translation initiation factor binding,15,5
+8,Molecular function,ATP binding,2,3
+8,Molecular function,ligase activity,5,3
+8,Molecular function,polysaccharide binding,1,3
+8,Molecular function,protein dimerization activity,2,3
+8,Molecular function,4 iron 4 sulfur cluster binding,2,2
+8,Molecular function,nucleotidyltransferase activity,2,2
+8,Molecular function,oxidoreductase activity,6,2
+8,Molecular function,glucose-6-phosphate 1-epimerase activity,1,1
+8,Molecular function,hydrolase activity,3,1
+8,Molecular function,isomerase activity,1,1
+8,Molecular function,lipid binding,1,0
+8,Molecular function,tocopherol cyclase activity,1,0
+8,Not characterized,Not characterized,1146,4330
+9,Biological process,regulation of cyclin-dependent protein serine/threonine kinase activity,2,542
+9,Biological process,mRNA splicing via spliceosome,2,310
+9,Biological process,plant-type cell wall organization,4,291
+9,Biological process,protein-heme linkage,91,194
+9,Biological process,carbohydrate metabolism,36,134
+9,Biological process,dephosphorylation,10,114
+9,Biological process,ethanol oxidation,73,84
+9,Biological process,S-adenosylmethionine biosynthesis,31,83
+9,Biological process,meiotic cell cycle,10,77
+9,Biological process,cytokinin metabolism,66,55
+9,Biological process,negative regulation of transcription DNA-templated,2,39
+9,Biological process,response to hormone,2,37
+9,Biological process,tRNA aminoacylation for protein translation,1,36
+9,Biological process,response to biotic stimulus,8,33
+9,Biological process,regulation of transcription DNA-templated,2,27
+9,Biological process,vacuolar transport,34,27
+9,Biological process,GO:0006351,2,25
+9,Biological process,rRNA processing,1,24
+9,Biological process,ribosome biogenesis,17,21
+9,Biological process,chloroplast mRNA processing,5,15
+9,Biological process,glycerol ether metabolism,3,13
+9,Biological process,leaf development,5,12
+9,Biological process,photosynthesis,2,10
+9,Biological process,actin filament organization,1,9
+9,Biological process,intracellular protein transport,10,9
+9,Biological process,cellular glucan metabolism,1,8
+9,Biological process,biosynthesis,3,6
+9,Biological process,ATP hydrolysis coupled proton transport,1,5
+9,Biological process,microtubule-based movement,5,5
+9,Biological process,cytochrome complex assembly,1,4
+9,Biological process,metabolism,18,4
+9,Biological process,positive regulation of GTPase activity,4,4
+9,Biological process,carbon utilization,1,3
+9,Biological process,glycerolipid biosynthetic process,1,3
+9,Biological process,actin filament depolymerization,1,2
+9,Biological process,photosynthesis light harvesting,4,2
+9,Biological process,methylation,9,1
+9,Biological process,phosphatidylinositol dephosphorylation,3,1
+9,Biological process,proton transmembrane transport,1,1
+9,Biological process,chloroplast organization,8,0
+9,Biological process,response to auxin,3,0
+9,Biological process,SRP-dependent cotranslational protein targeting to membrane,1,0
+9,Biological process,tRNA processing,2,0
+9,Cellular component,DNA topoisomerase complex (ATP-hydrolyzing),2,425
+9,Cellular component,extracellular region,1,17
+9,Cellular component,eukaryotic 48S preinitiation complex,4,14
+9,Cellular component,nuclear pore,2,10
+9,Cellular component,ribonuclease P complex,2,10
+9,Cellular component,microtubule,1,9
+9,Cellular component,membrane,1,7
+9,Cellular component,thylakoid,8,7
+9,Cellular component,integral component of membrane,123,5
+9,Cellular component,intracellular,3,4
+9,Cellular component,cell wall,2,3
+9,Cellular component,apoplast,1,2
+9,Molecular function,molybdenum ion binding,78,481
+9,Molecular function,chromatin binding,1,328
+9,Molecular function,catalytic activity,6,164
+9,Molecular function,RNA polymerase II regulatory region sequence-specific DNA binding,30,152
+9,Molecular function,carboxypeptidase activity,14,147
+9,Molecular function,zinc ion binding,24,135
+9,Molecular function,glucosamine 6-phosphate N-acetyltransferase activity,34,91
+9,Molecular function,carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity,4,68
+9,Molecular function,protein phosphatase regulator activity,3,64
+9,Molecular function,clathrin binding,8,43
+9,Molecular function,ubiquitin-specific protease activity involved in negative regulation of retrograde protein transport ER to cytosol,4,35
+9,Molecular function,intramolecular transferase activity,3,31
+9,Molecular function,oxidoreductase activity,5,27
+9,Molecular function,alternative oxidase activity,7,26
+9,Molecular function,calmodulin binding,28,25
+9,Molecular function,diaminopimelate epimerase activity,7,22
+9,Molecular function,phosphatidylinositol binding,26,21
+9,Molecular function,carbohydrate binding,1,20
+9,Molecular function,lactoylglutathione lyase activity,7,20
+9,Molecular function,transferase activity,19,18
+9,Molecular function,4 iron 4 sulfur cluster binding,2,1
+9,Molecular function,hydrolase activity,7,0
+9,Molecular function,ligase activity,11,0
+9,Not characterized,Not characterized,1103,4170
+10,Biological process,microtubule-based process,44,468
+10,Biological process,recognition of pollen,6,284
+10,Biological process,protein processing,67,251
+10,Biological process,karyogamy,10,243
+10,Biological process,spliceosomal complex assembly,1,223
+10,Biological process,cell wall macromolecule catabolism,3,202
+10,Biological process,cytidine to uridine editing,39,168
+10,Biological process,protein ubiquitination,60,121
+10,Biological process,cell wall organization,19,90
+10,Biological process,hydrogen peroxide catabolism,7,80
+10,Biological process,endosomal transport,56,68
+10,Biological process,carbon fixation,112,65
+10,Biological process,response to red or far red light,13,52
+10,Biological process,glycolytic process,1,43
+10,Biological process,carbohydrate metabolism,22,39
+10,Biological process,potassium ion homeostasis,8,35
+10,Biological process,detection of visible light,4,29
+10,Biological process,nitrogen compound metabolism,1,29
+10,Biological process,translational termination,1,24
+10,Biological process,endosome transport via multivesicular body sorting pathway,11,22
+10,Biological process,protein folding,2,22
+10,Biological process,SRP-dependent cotranslational protein targeting to membrane,1,21
+10,Biological process,S-adenosylmethionine biosynthesis,36,20
+10,Biological process,intracellular protein transport,5,18
+10,Biological process,regulation of transcription DNA-templated,1,17
+10,Biological process,response to biotic stimulus,6,15
+10,Biological process,metabolism,35,12
+10,Biological process,chloroplast fission,7,9
+10,Biological process,phospholipid biosynthetic process,1,5
+10,Biological process,sexual reproduction,6,5
+10,Biological process,metal ion transport,3,4
+10,Biological process,regulation of pH,2,4
+10,Biological process,cell proliferation,1,3
+10,Biological process,histone acetylation,1,3
+10,Biological process,methylation,11,3
+10,Biological process,embryo development ending in seed dormancy,2,2
+10,Biological process,glycerolipid biosynthetic process,2,2
+10,Biological process,photosynthesis,1,2
+10,Biological process,photosynthesis light harvesting,2,2
+10,Biological process,plant-type cell wall organization or biogenesis,5,2
+10,Biological process,dephosphorylation,1,1
+10,Biological process,developmental process,1,1
+10,Biological process,positive regulation of GTPase activity,3,1
+10,Biological process,biosynthesis,7,0
+10,Biological process,cell wall modification,1,0
+10,Cellular component,extracellular region,3,420
+10,Cellular component,extracellular space,1,140
+10,Cellular component,integral component of plasma membrane,35,67
+10,Cellular component,intracellular,2,58
+10,Cellular component,cell,1,23
+10,Cellular component,TORC1 complex,1,8
+10,Cellular component,integral component of membrane,105,5
+10,Cellular component,anchored component of plasma membrane,2,4
+10,Cellular component,microtubule,1,4
+10,Cellular component,peroxisome,17,4
+10,Cellular component,anchored component of membrane,1,3
+10,Cellular component,thylakoid,15,3
+10,Cellular component,membrane,6,1
+10,Cellular component,nuclear cap binding complex,1,1
+10,Molecular function,chitin binding,55,449
+10,Molecular function,chlorophyll binding,46,195
+10,Molecular function,zinc ion binding,15,93
+10,Molecular function,catalytic activity,12,84
+10,Molecular function,GPI-anchor transamidase activity,6,66
+10,Molecular function,protein-cysteine S-palmitoyltransferase activity,3,51
+10,Molecular function,RNA cap binding,11,49
+10,Molecular function,ligase activity,6,33
+10,Molecular function,potassium ion binding,21,27
+10,Molecular function,TBP-class protein binding,17,26
+10,Molecular function,actin binding,2,24
+10,Molecular function,4-hydroxy-tetrahydrodipicolinate synthase,5,21
+10,Molecular function,D-alanine-D-alanine ligase activity,2,17
+10,Molecular function,flavin adenine dinucleotide binding,3,15
+10,Molecular function,lipid binding,3,14
+10,Molecular function,L-aspartate:2-oxoglutarate aminotransferase activity,1,12
+10,Molecular function,aromatic amino acid transmembrane transporter activity,8,11
+10,Molecular function,transferase activity,10,9
+10,Molecular function,calcium ion binding,2,8
+10,Molecular function,carbohydrate binding,2,6
+10,Molecular function,deaminase activity,2,6
+10,Molecular function,double-stranded DNA binding,7,3
+10,Molecular function,hydrolase activity,13,2
+10,Molecular function,squalene synthase activity,7,2
+10,Molecular function,4 iron 4 sulfur cluster binding,1,1
+10,Molecular function,methylenetetrahydrofolate dehydrogenase (NADP+) activity,2,0
+10,Not characterized,Not characterized,1014,3786
+11,Biological process,intracellular protein transport,16,284
+11,Biological process,gravitropism,18,218
+11,Biological process,carbohydrate metabolism,26,204
+11,Biological process,microtubule cytoskeleton organization,1,194
+11,Biological process,mRNA splicing via spliceosome,3,178
+11,Biological process,ribosomal small subunit biogenesis,7,155
+11,Biological process,7-methylguanosine mRNA capping,44,148
+11,Biological process,ribosome biogenesis,2,116
+11,Biological process,glycerol ether metabolism,59,97
+11,Biological process,RNA polyadenylation,26,75
+11,Biological process,glycolytic process,1,68
+11,Biological process,protein processing,18,67
+11,Biological process,cellular glucan metabolism,10,65
+11,Biological process,chromatin silencing,1,65
+11,Biological process,amine metabolism,37,55
+11,Biological process,response to auxin,12,51
+11,Biological process,transcription DNA-templated,1,35
+11,Biological process,rRNA processing,1,29
+11,Biological process,polysaccharide catabolism,56,28
+11,Biological process,protein folding,4,21
+11,Biological process,dephosphorylation,6,17
+11,Biological process,actin filament polymerization,1,15
+11,Biological process,autophagy,1,10
+11,Biological process,hydrogen peroxide catabolism,4,9
+11,Biological process,protein N-linked glycosylation,1,8
+11,Biological process,microtubule-based movement,8,7
+11,Biological process,polyamine metabolism,1,7
+11,Biological process,nitrogen compound metabolism,1,6
+11,Biological process,plant-type cell wall organization or biogenesis,1,6
+11,Biological process,cellular metabolism,2,5
+11,Biological process,methylation,12,5
+11,Biological process,oligosaccharide metabolism,3,5
+11,Biological process,cytokinin biosynthetic process,2,4
+11,Biological process,biosynthesis,3,2
+11,Biological process,cell proliferation,1,2
+11,Biological process,metal ion transport,3,2
+11,Biological process,peroxisomal membrane transport,40,2
+11,Biological process,phospholipid biosynthetic process,1,2
+11,Biological process,RNA phosphodiester bond hydrolysis endonucleolytic,1,2
+11,Biological process,metabolism,30,1
+11,Biological process,negative regulation of flower development,3,1
+11,Biological process,phloem development,8,1
+11,Biological process,photosynthesis,1,1
+11,Biological process,tRNA processing,1,1
+11,Biological process,ubiquitin-dependent ERAD pathway,1,1
+11,Biological process,Arp2/3 complex-mediated actin nucleation,1,0
+11,Biological process,positive regulation of GTPase activity,9,0
+11,Biological process,terpenoid biosynthesis,2,0
+11,Cellular component,extracellular region,2,548
+11,Cellular component,cell wall,3,111
+11,Cellular component,intracellular,2,80
+11,Cellular component,cell,1,18
+11,Cellular component,chloroplast stroma,17,18
+11,Cellular component,prefoldin complex,4,14
+11,Cellular component,integral component of membrane,139,8
+11,Cellular component,chloroplast nucleoid,22,6
+11,Cellular component,actin cytoskeleton,1,4
+11,Cellular component,membrane,2,4
+11,Cellular component,outer membrane,1,1
+11,Molecular function,double-stranded RNA binding,40,342
+11,Molecular function,ADP binding,20,217
+11,Molecular function,calcium-dependent phospholipid binding,37,145
+11,Molecular function,actin binding,3,134
+11,Molecular function,heme binding,23,133
+11,Molecular function,zinc ion binding,32,120
+11,Molecular function,chromatin binding,1,87
+11,Molecular function,3-deoxy-8-phosphooctulonate synthase activity,36,54
+11,Molecular function,structural constituent of cell wall,1,49
+11,Molecular function,DNA topoisomerase activity,1,47
+11,Molecular function,poly(U)-specific exoribonuclease activity producing 3prime uridine cyclic phosphate ends,13,42
+11,Molecular function,calmodulin binding,9,33
+11,Molecular function,ferrous iron binding,39,21
+11,Molecular function,SNAP receptor activity,11,19
+11,Molecular function,electron carrier activity,1,15
+11,Molecular function,GTPase activator activity,4,13
+11,Molecular function,lipid binding,1,9
+11,Molecular function,hydrolase activity,9,8
+11,Molecular function,transferase activity,6,8
+11,Molecular function,carbohydrate binding,1,6
+11,Molecular function,N-carbamoylputrescine amidase activity,3,6
+11,Molecular function,ATP binding,1,4
+11,Molecular function,thiol oxidase activity,5,4
+11,Molecular function,flavin adenine dinucleotide binding,6,3
+11,Molecular function,nutrient reservoir activity,2,3
+11,Molecular function,ligase activity,3,1
+11,Molecular function,catalytic activity,10,0
+11,Not characterized,Not characterized,1023,4285
+12,Biological process,intracellular protein transport,14,538
+12,Biological process,response to auxin,18,271
+12,Biological process,response to biotic stimulus,10,252
+12,Biological process,"mRNA splicing, via spliceosome",2,238
+12,Biological process,ribosomal large subunit biogenesis,12,230
+12,Biological process,carbohydrate metabolism,28,133
+12,Biological process,inositol biosynthetic process,1,125
+12,Biological process,protein processing,26,122
+12,Biological process,protein ubiquitination,66,122
+12,Biological process,dephosphorylation,16,98
+12,Biological process,RNA polyadenylation,109,96
+12,Biological process,rRNA processing,1,77
+12,Biological process,microtubule-based movement,5,66
+12,Biological process,starch metabolism,3,66
+12,Biological process,(1->3)-beta-D-glucan biosynthetic process,1,63
+12,Biological process,fructose 6-phosphate metabolism,5,49
+12,Biological process,S-adenosylmethionine biosynthesis,15,48
+12,Biological process,"regulation of transcription, DNA-templated",15,47
+12,Biological process,translational termination,1,39
+12,Biological process,inositol phosphate biosynthesis,9,37
+12,Biological process,protein folding,3,34
+12,Biological process,lipid metabolism,2,30
+12,Biological process,endoplasmic reticulum organization,26,29
+12,Biological process,vacuolar transport,48,29
+12,Biological process,GPI anchor biosynthetic process,1,26
+12,Biological process,response to oxidative stress,9,25
+12,Biological process,hydrogen peroxide catabolism,5,20
+12,Biological process,arginine biosynthesis,2,15
+12,Biological process,ATP hydrolysis coupled proton transport,1,15
+12,Biological process,developmental process,1,15
+12,Biological process,microtubule-based process,19,14
+12,Biological process,pectin catabolism,16,13
+12,Biological process,phospholipid biosynthetic process,1,13
+12,Biological process,autophagy,1,12
+12,Biological process,biosynthesis,9,10
+12,Biological process,fatty acid biosynthetic process,1,10
+12,Biological process,metabolism,52,10
+12,Biological process,plant-type cell wall organization,10,9
+12,Biological process,"regulation of photoperiodism, flowering",2,9
+12,Biological process,circadian rhythm,1,8
+12,Biological process,regulation of catalytic activity,3,8
+12,Biological process,positive regulation of nucleic acid-templated transcription,1,7
+12,Biological process,multicellular organism development,78,5
+12,Biological process,phosphatidylinositol dephosphorylation,3,5
+12,Biological process,signal transduction,8,5
+12,Biological process,ATP metabolic process,1,3
+12,Biological process,methylation,22,3
+12,Biological process,photosynthesis,2,3
+12,Biological process,actin filament polymerization,1,2
+12,Biological process,metabolic process,1,2
+12,Biological process,negative regulation of catalytic activity,8,2
+12,Biological process,negative regulation of endopeptidase activity,4,2
+12,Biological process,carbohydrate derivative metabolism,1,1
+12,Biological process,histone acetylation,1,1
+12,Biological process,metal ion transport,7,1
+12,Biological process,phospholipid translocation,1,1
+12,Biological process,positive regulation of GTPase activity,2,1
+12,Biological process,protein refolding,1,1
+12,Biological process,vesicle-mediated transport,1,1
+12,Cellular component,transcriptional repressor complex,16,683
+12,Cellular component,photosystem II,1,102
+12,Cellular component,nuclear chromosome,3,52
+12,Cellular component,cell wall,3,39
+12,Cellular component,extracellular region,3,36
+12,Cellular component,membrane,2,19
+12,Cellular component,thylakoid,23,13
+12,Cellular component,apoplast,2,12
+12,Cellular component,intracellular,2,7
+12,Cellular component,cytosol,11,6
+12,Cellular component,cell,1,5
+12,Cellular component,integral component of membrane,191,3
+12,Molecular function,zinc ion binding,29,337
+12,Molecular function,calcium-dependent phospholipid binding,12,238
+12,Molecular function,heme binding,52,153
+12,Molecular function,transcription cofactor activity,2,100
+12,Molecular function,cycloeucalenol cycloisomerase activity,2,57
+12,Molecular function,"transcription factor activity, sequence-specific DNA binding",1,56
+12,Molecular function,catalytic activity,14,47
+12,Molecular function,ATP binding,2,42
+12,Molecular function,actin binding,1,29
+12,Molecular function,motor activity,15,25
+12,Molecular function,DNA-directed 5'-3' RNA polymerase activity,1,22
+12,Molecular function,fumarylacetoacetase activity,15,21
+12,Molecular function,aminoacyl-tRNA ligase activity,2,17
+12,Molecular function,Rho GDP-dissociation inhibitor activity,2,13
+12,Molecular function,phosphoethanolamine N-methyltransferase activity,7,12
+12,Molecular function,kinase activity,3,9
+12,Molecular function,serine-type endopeptidase activity,3,9
+12,Molecular function,structural constituent of nuclear pore,2,9
+12,Molecular function,acetolactate synthase activity,1,8
+12,Molecular function,"protein binding, bridging",21,8
+12,Molecular function,transferase activity,5,8
+12,Molecular function,lipid binding,2,7
+12,Molecular function,potassium ion binding,41,7
+12,Molecular function,3-hydroxy-lignoceroyl-CoA dehydratase activity,3,4
+12,Molecular function,calcium ion binding,1,4
+12,Molecular function,hydrolase activity,7,4
+12,Molecular function,isomerase activity,1,4
+12,Molecular function,glycine hydroxymethyltransferase activity,10,3
+12,Molecular function,carbohydrate binding,5,2
+12,Molecular function,"4 iron, 4 sulfur cluster binding",2,1
+12,Molecular function,coenzyme binding,1,1
+12,Molecular function,ethylene binding,1,1
+12,Molecular function,ligase activity,4,1
+12,Not characterized,Not characterized,1075,3789
